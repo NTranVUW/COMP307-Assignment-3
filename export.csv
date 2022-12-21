@@ -1,0 +1,11 @@
+,class,age,menopause,tumor-size,inv-nodes,node-caps,deg-malig,breast,breast-quad,irradiat,class,prediction,no-recurrence-events probability,recurrence-events probability
+189,no-recurrence-events,50-59,premeno,50-54,0-2,yes,2,right,left_up,yes,no-recurrence-events,recurrence-events,1.185144746072391e-05,5.0252361135206404e-06
+190,no-recurrence-events,50-59,ge40,35-39,0-2,no,2,left,left_up,no,no-recurrence-events,no-recurrence-events,0.00041732849746988816,4.345530735598768e-05
+191,no-recurrence-events,50-59,premeno,10-14,3-5,no,1,right,left_up,no,no-recurrence-events,no-recurrence-events,5.8878218806890874e-05,1.622419224516929e-06
+192,no-recurrence-events,40-49,premeno,10-14,0-2,no,2,left,left_low,yes,no-recurrence-events,no-recurrence-events,0.00018965784203051642,1.7066084343442433e-05
+193,no-recurrence-events,50-59,ge40,15-19,0-2,yes,2,left,central,yes,no-recurrence-events,no-recurrence-events,5.434866736709343e-06,3.207415542941948e-06
+194,no-recurrence-events,50-59,premeno,25-29,0-2,no,1,left,left_low,no,no-recurrence-events,no-recurrence-events,0.0007504740415831185,6.480302920326064e-05
+195,no-recurrence-events,60-69,ge40,25-29,0-2,no,3,right,left_low,no,no-recurrence-events,no-recurrence-events,0.00025906825523534885,0.00012384056710871053
+274,recurrence-events,60-69,ge40,20-24,0-2,no,1,right,left_up,no,recurrence-events,no-recurrence-events,0.00039405165026762883,1.4921120960543075e-05
+275,recurrence-events,40-49,ge40,30-34,3-5,no,3,left,left_low,no,recurrence-events,recurrence-events,0.00010828136273080714,4.8934838332255675e-05
+276,recurrence-events,50-59,ge40,30-34,3-5,no,3,left,left_low,no,recurrence-events,recurrence-events,8.822925852139842e-05,5.130265309026804e-05
